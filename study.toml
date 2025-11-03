@@ -1,0 +1,13 @@
+name = "Rust 연말 온라인 스터디 그룹"
+start_date = "unspecified yet"
+end_date = 2026-01-11
+
+[channels]
+main = 1434997353810759792
+stage = 1434997706673229956
+
+[lecturer]
+nickname = "한현빈"
+id = "tmvkrpxl0"
+
+[[members]]
